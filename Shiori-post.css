@@ -82,7 +82,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    width: 100%;
+    width: 600px;
 }
 
 .titulo-principal::before,
