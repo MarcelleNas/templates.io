@@ -32,7 +32,7 @@
 }
 
 .canto {
-    width: 300px;
+    width: 400px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -46,7 +46,7 @@
 }
 
 .canto .frase {
-    width: 200px;
+    width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
