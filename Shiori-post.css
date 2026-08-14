@@ -2,7 +2,7 @@
 
 .content {
     background-color: #000000;
-    width: 900px;
+    width: 1000px;
     border: 1px solid #c09300;
     color: #fff;
     position: relative;
@@ -23,7 +23,7 @@
 }
 
 .topo {
-    width: 100%;
+    width: 1000px;
     display: flex;
     flex-direction: row;
     align-items: center;
