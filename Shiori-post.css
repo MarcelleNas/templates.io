@@ -34,6 +34,7 @@
 
 .canto {
     width: 500px;
+    height: 80px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -47,7 +48,7 @@
 }
 
 .canto .frase {
-    width: 300px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -61,6 +62,7 @@
 }
 
 .canto .frase span {
+    width: 400px;
     color: #1D4ED8;
     font-size: 25px;
     font-family: "Noto Serif JP", serif;
@@ -68,7 +70,7 @@
 }
 
 .titulo {
-    width: 600px;
+    width: 500px;
     color: #c09300;
     font-size: 22px;
     letter-spacing: 5px;
