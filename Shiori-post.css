@@ -24,6 +24,7 @@
 
 .topo {
     width: 1000px;
+    height: 80px;
     display: flex;
     flex-direction: row;
     align-items: center;
