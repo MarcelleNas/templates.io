@@ -542,6 +542,11 @@
     z-index: 9;
 }
 
+.spoiler_title {
+    font-family: "Cinzel", serif;
+}
+
 .spoiler_content {
     border: 0 !important;
+    font-family: "Montserrat", sans-serif;
 }
