@@ -534,6 +534,8 @@
     width: 100% !important;
     text-align: left !important;
     border-left: 3px solid #1D4ED8 !important;
+    background-color: #000000ab !important;
+    z-index: 9;
 }
 
 .spoiler_title {
