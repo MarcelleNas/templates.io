@@ -524,16 +524,16 @@
 }
 
 .spoiler {
-    width: 100%;
-    text-align: left;
-    border-left: 5px solid #1D4ED8;
+    width: 100% !important;
+    text-align: left !important;
+    border-left: 5px solid #1D4ED8 !important;
 }
 
 .spoiler_title {
-    background-color: #000000ab;
+    background-color: #000000ab !important;
 }
 
 .spoiler_content {
-    background-color: #000000ab;
-    border: 0;
+    background-color: #000000ab !important;
+    border: 0 !important;
 }
