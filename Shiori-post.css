@@ -527,6 +527,8 @@
     width: 100% !important;
     height: auto;
     text-align: left !important;
+    background-color: #00000096 !important;
+    z-index: 9;
 }
 
 .spoiler {
