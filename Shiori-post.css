@@ -522,3 +522,18 @@
         transparent
     );
 }
+
+.spoiler {
+    width: 100%;
+    text-align: left;
+    border-left: 5px solid #1D4ED8;
+}
+
+.spoiler_title {
+    background-color: #000000ab;
+}
+
+.spoiler_content {
+    background-color: #000000ab;
+    border: 0;
+}
