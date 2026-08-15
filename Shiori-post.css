@@ -1,3 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif+JP:wght@200..900&display=swap');
 
-
+.content {
+  width: 1000px;
+  height: 800px;
+  background-color: #000000;
+  box-sizing: border-box;
+  border: 1px solid #c09300;
+  position: relative;
+}
