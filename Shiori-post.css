@@ -525,6 +525,7 @@
 
 .informacoes {
     width: 100% !important;
+    height: auto;
     text-align: left !important;
     background-color: #000000ab !important;
 }
