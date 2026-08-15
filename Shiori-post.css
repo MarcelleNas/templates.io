@@ -459,7 +459,7 @@
   background: #1D4ED8;
 }
 
-.bottom {
+.tpbottom {
     padding: 10px 20px;
     position: relative;
     display: flex;
@@ -467,7 +467,7 @@
     align-items: flex-start;
 }
 
-.bottom::before {
+.tpbottom::before {
     content: "";
     position: absolute;
     inset: 0;
@@ -498,7 +498,7 @@
     pointer-events: none;
 }
 
-.bottom .consideracoes {
+.tpbottom .consideracoes {
     width: 50%;
     min-height: 60px;
     font-family: "Cinzel", serif;
