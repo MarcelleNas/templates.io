@@ -523,12 +523,6 @@
     );
 }
 
-.informacoes {
-    width: 100% !important;
-    text-align: left !important;
-    border-left: 5px solid #1D4ED8 !important;
-}
-
 .spoiler {
     width: 100% !important;
     text-align: left !important;
