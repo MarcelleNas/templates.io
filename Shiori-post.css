@@ -345,12 +345,16 @@
     margin-bottom: -4px;
 }
 
+.stts .texto{
+    margin-left: 20px;
+    margin-bottom: -9px;
+}
+
 .stts .texto.ea p {
     font-family: "Cinzel", serif;
     font-size: 20px;
     font-weight: 500;
     color: #c09300;
-    margin-bottom: 10px;
 }
 
 .barra-ea {
