@@ -527,22 +527,16 @@
     width: 100% !important;
     height: auto;
     text-align: left !important;
-    background-color: #000000ab !important;
 }
 
 .spoiler {
     width: 100% !important;
     text-align: left !important;
     border-left: 3px solid #1D4ED8 !important;
-    background-color: #000000ab !important;
+    background-color: #00000096 !important;
     z-index: 9;
 }
 
-.spoiler_title {
-    background-color: #000000ab !important;
-}
-
 .spoiler_content {
-    background-color: #000000ab !important;
     border: 0 !important;
 }
