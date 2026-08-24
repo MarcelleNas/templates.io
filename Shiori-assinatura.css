@@ -20,7 +20,7 @@ body {
     position: absolute;
     inset: 0;
 
-    background-image: url("espiral.png");
+    background-image: url('https://i.imgur.com/40BondU.png');
     background-repeat: no-repeat;
     background-size: 160px auto;
     background-position: 103% -30%;
@@ -74,7 +74,7 @@ body {
     position: absolute;
     inset: 0;
 
-    background-image: url("foto2.png");
+    background-image: url('https://i.imgur.com/05nVVVQ.png');
     background-repeat: no-repeat;
     background-size: 400px auto;
     background-position: 130% 0;
