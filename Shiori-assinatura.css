@@ -27,7 +27,7 @@
 
 
 
-.ass-conteudo {
+.ass-content .ass-conteudo {
     width: 685px;
     height: 205px;
     border: 1px solid;
@@ -42,7 +42,7 @@
     overflow: hidden;
 }
 
-.retangulo {
+.ass-content .retangulo {
     width: 70px;
     height: 50px;
     position: absolute;
@@ -53,7 +53,7 @@
     border-radius: 10px;
 }
 
-.retangulo::before {
+.ass-content .retangulo::before {
     content: '';
     width: 70px;
     height: 50px;
@@ -65,7 +65,7 @@
     border-radius: 10px;
 }
 
-.ass-conteudo::before {
+.ass-content .ass-conteudo::before {
     content: "";
     position: absolute;
     inset: 0;
@@ -81,7 +81,7 @@
     
 }
 
-.ass-conteudo::after {
+.ass-content .ass-conteudo::after {
     content: "";
     position: absolute;
     inset: 0;
@@ -92,7 +92,7 @@
     z-index: 2;
 }
 
-.ass-imagecontent {
+.ass-content .ass-imagecontent {
     width: 156px;
     height: 156px;
     position: relative;
@@ -106,7 +106,7 @@
     z-index: 4;
 }
 
-.ass-imagecontent::before {
+.ass-content .ass-imagecontent::before {
     content: "";
     position: absolute;
     width: 1px;
@@ -116,7 +116,7 @@
     margin-left: 220px;
 }
 
-.ass-imagecontent img {
+.ass-content .ass-imagecontent img {
     width: 150px;
     height: 150px;
     border-radius: 8px;
@@ -124,7 +124,7 @@
     z-index: 4;
 }
 
-.ass-descricoes {
+.ass-content .ass-descricoes {
     width: 60%;
     height: 140px;
     display: flex;
@@ -134,11 +134,11 @@
     z-index: 3;
 }
 
-span {
+.ass-content span {
     color: #1D4ED8;
 }
 
-.assnome {
+.ass-content .assnome {
     background-image: linear-gradient(to bottom, #d3d0c6, #d3d0c6, #c09300);
     -webkit-background-clip: text;
     background-clip: text;
@@ -149,7 +149,7 @@ span {
     font-weight: 500;
 }
 
-.assmenu {
+.ass-content .assmenu {
     height: 40px;
     list-style: none;
     display: flex;
@@ -160,7 +160,7 @@ span {
     gap: 10px;
 }
 
-.assmenu .assbotoes {
+.ass-content .assmenu .assbotoes {
     padding: 10px 20px;
     background-color: #1d4fd81c;
     backdrop-filter: blur(10px);
@@ -174,7 +174,7 @@ span {
     font-weight: 500;
 }
 
-.assmenu .assbotoes:hover {
+.ass-content .assmenu .assbotoes:hover {
     padding: 15px 25px;
     color: #c09300a4;
     box-shadow: #c09300b2 0px 2px, #c0930088 0px 4px, #c093005d 0px 6px, #c093002d 0px 8px, #c0930013 0px 10px;
